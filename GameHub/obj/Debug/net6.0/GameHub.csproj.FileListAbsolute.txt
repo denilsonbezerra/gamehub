@@ -1,0 +1,17 @@
+D:\dev\sharp-coders\C#\GameHub\GameHub\bin\Debug\net6.0\GameHub.exe
+D:\dev\sharp-coders\C#\GameHub\GameHub\bin\Debug\net6.0\GameHub.deps.json
+D:\dev\sharp-coders\C#\GameHub\GameHub\bin\Debug\net6.0\GameHub.runtimeconfig.json
+D:\dev\sharp-coders\C#\GameHub\GameHub\bin\Debug\net6.0\GameHub.dll
+D:\dev\sharp-coders\C#\GameHub\GameHub\bin\Debug\net6.0\GameHub.pdb
+D:\dev\sharp-coders\C#\GameHub\GameHub\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\dev\sharp-coders\C#\GameHub\GameHub\obj\Debug\net6.0\GameHub.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\GameHub\GameHub\obj\Debug\net6.0\GameHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\GameHub\GameHub\obj\Debug\net6.0\GameHub.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\GameHub\GameHub\obj\Debug\net6.0\GameHub.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\GameHub\GameHub\obj\Debug\net6.0\GameHub.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\GameHub\GameHub\obj\Debug\net6.0\GameHub.csproj.CopyComplete
+D:\dev\sharp-coders\C#\GameHub\GameHub\obj\Debug\net6.0\GameHub.dll
+D:\dev\sharp-coders\C#\GameHub\GameHub\obj\Debug\net6.0\refint\GameHub.dll
+D:\dev\sharp-coders\C#\GameHub\GameHub\obj\Debug\net6.0\GameHub.pdb
+D:\dev\sharp-coders\C#\GameHub\GameHub\obj\Debug\net6.0\GameHub.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\GameHub\GameHub\obj\Debug\net6.0\ref\GameHub.dll
